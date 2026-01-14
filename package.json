@@ -109,7 +109,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "date-fns": "^3.6.0",
-    "diff": "^5.2.0",
+    "diff": "^8.0.3",
     "dotenv": "^16.4.7",
     "electron-log": "^5.2.3",
     "electron-store": "^10.0.0",
